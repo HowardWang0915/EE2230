@@ -1,5 +1,3 @@
-# EE2230
-Digital Logic Design Lab
 # Course Information
 * Course Number: EE-2230
 * Course Title: Logic Design Laboratory
