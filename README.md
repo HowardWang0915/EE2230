@@ -26,3 +26,30 @@
 * 3-4 - NTHUEE SSD display
 
 ## Lab4: Shift Registers
+* 4.1 - 4-bit synchronous binary up counter with LED display
+* 4.2 - Single digit BCD up counter with SSD
+* 4.3 - Single digit BCD down counter with SSD
+* 4.4 - (Bonus) 30 seconds count down timer
+
+## Lab5: Timers
+### Pre-Labs
+* 5.1 - 30-second down counter with pause function and LED and Push buttons
+### Labs
+* 5.1 - 30-second down counter with pause function
+* 5.2 - Implement 5.1 instead of two push buttons
+* 5.3 - Two push buttons multi-fucntion timer with mode select
+
+## Lab6: Electronic Clock I (Time Display)
+* 6.1 - Time Display function supproting 24-hour (00-23)
+* 6.2 - Display "Day", "Month", "Year"
+* 6.3 - (Bonus) Support AM/PM and 24-hour, leap year mode
+
+## Lab7: Electronic Clock II (Multi-functions)
+* 7.1 - Stopwatch function with SSD and push buttons
+* 7.2 - Countdown Timer with DIP control and push button
+* 7.3 - (Bonus) (Need to be updated!!)
+        Integrate the above with three buttons
+
+## Lab8: Speaker
+* 8.1 - Audio Data Parallel-To-Serial Module 
+* 8.2 - Speaker Control with notes and volume
