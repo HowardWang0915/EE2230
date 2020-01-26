@@ -53,3 +53,19 @@
 ## Lab8: Speaker
 * 8.1 - Audio Data Parallel-To-Serial Module 
 * 8.2 - Speaker Control with notes and volume
+
+## Lab9: Keyboard (Calculator)
+* 9.1 - KeyBoard with simple calculation function
+* 9.2 - Single Digit Decimal adder
+* 9.3 - Two-Digit Decimal Calculator with SSD
+* 9.4 - Caps Control with "Shift" and "Caps"
+
+## Lab10: Electronic Organ:
+* 10.1 - Play 14 Sounds repeatedly
+* 10.2 - Integrate organ with keyboard
+* 10.3 - (Bonus) Seperate left and right channels with DIP control
+
+## Lab11: VGA
+* 11.1 - VGA displaying functions
+* 11.2 - Calculator Display
+* 11.3 - TETRIS Generator (Not Finished)
